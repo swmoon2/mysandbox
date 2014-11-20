@@ -1,0 +1,99 @@
+/*----------------------------------------------------------------------------
+ * File:  UI_GuiBridge_bridge.c
+ *
+ * Description:
+ * Methods for bridging to an external entity.
+ *
+ * External Entity:  Graphical User Interface (GuiBridge)
+ * 
+ * your copyright statement can go here (from te_copyright.body)
+ *--------------------------------------------------------------------------*/
+
+#include "GPSWatch_sys_types.h"
+#include "LOG_bridge.h"
+#include "TIM_bridge.h"
+#include "UI_GuiBridge_bridge.h"
+#include "UI_classes.h"
+#include "UI_GuiBridge_bridge.h"
+#include "GPSWatch_sys_types.h"
+
+/*
+ * Bridge:  feedSetTargetPressedEvent
+ */
+void
+UI_GuiBridge_feedSetTargetPressedEvent( Escher_xtUMLEvent_t * p_evt )
+{
+  /* Replace/Insert your implementation code here... */
+}
+
+
+/*
+ * Bridge:  feedModePressedEvent
+ */
+void
+UI_GuiBridge_feedModePressedEvent( Escher_xtUMLEvent_t * p_evt )
+{
+  /* Replace/Insert your implementation code here... */
+}
+
+
+/*
+ * Bridge:  feedLightPressedEvent
+ */
+void
+UI_GuiBridge_feedLightPressedEvent( Escher_xtUMLEvent_t * p_evt )
+{
+  /* Replace/Insert your implementation code here... */
+}
+
+
+/*
+ * Bridge:  feedLapResetPressedEvent
+ */
+void
+UI_GuiBridge_feedLapResetPressedEvent( Escher_xtUMLEvent_t * p_evt )
+{
+  /* Replace/Insert your implementation code here... */
+}
+
+
+/*
+ * Bridge:  feedStartStopPressedEvent
+ */
+void
+UI_GuiBridge_feedStartStopPressedEvent( Escher_xtUMLEvent_t * p_evt )
+{
+  /* Replace/Insert your implementation code here... */
+}
+
+
+/*
+ * Bridge:  setData
+ */
+void
+UI_GuiBridge_setData( const i_t p_unit, const r_t p_value )
+{
+  /* Replace/Insert your implementation code here... */
+}
+
+
+/*
+ * Bridge:  setTime
+ */
+void
+UI_GuiBridge_setTime( const i_t p_time )
+{
+  /* Replace/Insert your implementation code here... */
+}
+
+
+/*
+ * Bridge:  connect
+ */
+void
+UI_GuiBridge_connect()
+{
+  /* Replace/Insert your implementation code here... */
+}
+
+

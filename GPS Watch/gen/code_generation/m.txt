@@ -1,0 +1,6 @@
+   .invoke MarkSystemObjectDefaultExtentSize( 200 )
+.invoke MarkInitializationFunction( "UI", "init" )
+.invoke MarkStateTransitionTracingOn( "*" )
+.invoke MarkActionStatementTracingOn( "*" )
+.invoke MarkEmptyHandleDetectionOn( "*" )
+.invoke MarkSystemConfigurationPackage( "System" )

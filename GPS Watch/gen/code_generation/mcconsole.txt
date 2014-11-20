@@ -1,0 +1,18 @@
+Marked configuration package System found.
+Enabling detection of empty handles for component(s) *.
+Action statement tracing enabled for component HeartRateMonitor.
+Action statement tracing enabled for component Location.
+Action statement tracing enabled for component Tracking.
+Action statement tracing enabled for component UI.
+Enabling state transition tracing for component(s) *.
+Function init marked as initialization function.
+Class default extent size is 200 for _all_ classes.
+Analyzing model and making optimizations....
+Self event queue needed.
+Instance event queue needed.
+20 attributes read
+19 attributes written
+translating control statements
+translating other statements
+rolling up statements into action bodies
+done translating statements
